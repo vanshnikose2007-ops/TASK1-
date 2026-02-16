@@ -1,0 +1,4 @@
+name: Vansh Nikose
+roll no: 51
+sec: B
+branch: CSE-AIDS
